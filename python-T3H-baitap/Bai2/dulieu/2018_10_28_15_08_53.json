@@ -1,0 +1,13 @@
+{
+    "giao_dich_vang": [],
+    "giao_dich_tien": [
+        {
+            "mua": true,
+            "ma": "1",
+            "ngay": "10102018",
+            "don_gia": 12345,
+            "so_luong": 1,
+            "loai": "abc"
+        }
+    ]
+}
